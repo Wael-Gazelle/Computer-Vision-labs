@@ -15,13 +15,3 @@ This repository tracks my progressive work and solutions across the curriculum:
 * **Language:** Python 3.10+
 * **Core Libraries:** PyTorch / TensorFlow, OpenCV, NumPy, Matplotlib
 * **Execution Environment:** Jupyter Notebooks / Google Colab
-
-## 📦 Getting Started
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com
-   ```
-2. Set up your environment and install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
