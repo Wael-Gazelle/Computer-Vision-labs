@@ -1,33 +1,12 @@
+# 3rd Year Deep Learning for Computer Vision Labs
 
+Welcome to my official repository for the **3rd-year Deep Learning for Computer Vision** laboratory assignments. This repository serves as my personal workspace to code, test, and implement solutions for the course assignments.
 
-# Deep Learning for Computer Vision – Course Summary
+## 📌 Course Context & Reference
+All lab topics, base code templates, and original assignment specifications are provided by the course instructor. 
+* **Official Teacher Repository:** You can find the source materials and guidelines in the [Naziherrahel/Deep-Learning-for-Computer-Vision](https://github.com/naziherrahel/Deep-Learning-for-Computer-Vision "naziherrahel/Deep-Learning-for-Computer-Vision") repository.
 
-## Course Structure
-- **Weekly sessions**: 1.5h lecture + 1.5h lab
-- **Format**: Lectures, labs, presentations, coursework
-- **Assessment**: Continuous evaluation and final coursework
-
----
-
-## Course Content Overview
-- **Foundations**: Neural networks, backpropagation, optimization, CNNs
-- **Intermediate**: ResNet, regularization, transfer learning, evaluation
-- **Advanced**: YOLO object detection, semantic segmentation, efficient vision models
-
-
----
-
-## Key Requirements
-- **3 Presentations** (7–10 min each, slides submitted before class)
-- **Final Coursework** (graded separately, 5/5)
-- **Attendance mandatory**: Missing more than 20% (6+ sessions) = automatic fail
-
----
-
-## Learning Outcomes
-By the end, students will: 
-- Understand deep learning principles for computer vision
-- Implement and train models in PyTorch
-- Present technical topics effectively
-- Deliver a final coursework project
-s
+## 🛠️ Tech Stack & Requirements
+* **Language:** Python
+* **Core Libraries:** PyTorch / TensorFlow, OpenCV, NumPy, Matplotlib
+* **Execution Environment:** Jupyter Notebooks / Google Colab
