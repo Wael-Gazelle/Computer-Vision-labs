@@ -64,7 +64,14 @@ def sample_batch(
     # y_batch.                                                                  #
     #############################################################################
     # Replace "pass" statement with your code
-    pass
+    indices = torch.randint(
+        X.shape[0],
+        (batch_size,),
+        device=X.device,
+        generator=generator,
+    )
+    X_batch = X[indices]
+    y_batch = y[indices]
     #############################################################################
     #                             END OF YOUR CODE                              #
     #############################################################################
@@ -113,7 +120,7 @@ def train_linear_classifier(
         # Apply one SGD update to W using the learning rate and gradient.        #
         #########################################################################
         # Replace "pass" statement with your code
-        pass
+        W -= learning_rate * gradient
         #########################################################################
         #                         END OF YOUR CODE                              #
         #########################################################################
