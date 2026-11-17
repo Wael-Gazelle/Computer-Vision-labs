@@ -1,6 +1,0 @@
-path: C:\Users\Deerman\OneDrive\Desktop\02_University\Third Year\Computer Vision\my github\Computer-Vision-labs\Lab11\work\pennfudan_yolo_augmented
-train: train/images
-val: val/images
-test: test/images
-names:
-  0: pedestrian
