@@ -1,0 +1,6 @@
+path: C:\Users\Deerman\OneDrive\Desktop\02_University\Third_Year\Computer Vision\my github\Computer-Vision-labs\Labs\Obj_detection\Lab12\work\pennfudan_yolo
+train: train/images
+val: val/images
+test: test/images
+names:
+  0: pedestrian
